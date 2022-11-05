@@ -49,9 +49,11 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Node][Node.js]][Node-url]
-* [![Express][Express.js]][Express-url]
+* Node
+* ExpressJs
+* MongoDb
+* StripePayment
+* ejs Template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
