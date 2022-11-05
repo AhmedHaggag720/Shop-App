@@ -42,8 +42,10 @@
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://stripe.com](Stripe)  [https://nodemailer.com](NodeMailer)
-2. Clone the repo
+1. Get a free API Key at 
+2. [https://stripe.com](Stripe)  
+3. [https://nodemailer.com](NodeMailer)
+4. Clone the repo
    ```sh
    git clone https://github.com/AhmedHaggag720/Shop-App
    ```
