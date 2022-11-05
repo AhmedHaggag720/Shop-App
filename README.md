@@ -1,4 +1,14 @@
 ## About The Project
+
+### Built With
+
+
+* NodeJs
+* ExpressJs
+* MongoDb
+* StripePayment
+* EJS Template
+
  Home Page where user see the available products
  
 ![Shop](https://user-images.githubusercontent.com/102539437/200116934-ececa1c9-5459-487e-ad26-71c938147d21.jpg)
@@ -47,13 +57,6 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-### Built With
 
-
-* NodeJs
-* ExpressJs
-* MongoDb
-* StripePayment
-* EJS Template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
