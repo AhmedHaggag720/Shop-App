@@ -1,4 +1,4 @@
-# Shop-App!
+
  Home Page where user see the available products
  
 ![Shop](https://user-images.githubusercontent.com/102539437/200116934-ececa1c9-5459-487e-ad26-71c938147d21.jpg)
@@ -26,3 +26,24 @@
  Orders Page 
  
 ![Orders](https://user-images.githubusercontent.com/102539437/200117035-085ced0c-d840-4176-b097-01f3ed7c7c5c.jpg)
+
+#
+# I Used NodeJs , Express and MongoDb
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/AhmedHaggag720/Shop-App
+   ```
+3. Install NPM packages
+   ```sh
+   npm install express
+   ```
+4. Enter your Nodemailer Key and Strip Key 
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
