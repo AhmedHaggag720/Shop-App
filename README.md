@@ -10,6 +10,13 @@
 * StripePayment
 * EJS Template
 #
+## Application Structure
+
+- `app.js` - The entry point to our application. This file defines our express server and connects it to MongoDB using mongoose. It also requires the routes and models we'll be using in the application.
+- `config/` - This folder contains configuration for passport as well as a central location for configuration/environment variables.
+- `routes/` - This folder contains the route definitions for our API.
+- `models/` - This folder contains the schema definitions for our Mongoose models.
+#
  * Home Page where user see the available products
  
 ![Shop](https://user-images.githubusercontent.com/102539437/200116934-ececa1c9-5459-487e-ad26-71c938147d21.jpg)
