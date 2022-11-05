@@ -16,6 +16,7 @@
 - `config/` - This folder contains configuration for passport as well as a central location for configuration/environment variables.
 - `routes/` - This folder contains the route definitions for our API.
 - `models/` - This folder contains the schema definitions for our Mongoose models.
+- `controllers/` - This folder contains the controller for our project.
 #
  * Home Page where user see the available products
  
