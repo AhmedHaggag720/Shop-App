@@ -37,8 +37,6 @@
  
 ![Orders](https://user-images.githubusercontent.com/102539437/200117035-085ced0c-d840-4176-b097-01f3ed7c7c5c.jpg)
 
-### I Used NodeJs , Express and MongoDb
-
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
