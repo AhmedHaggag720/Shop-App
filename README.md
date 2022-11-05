@@ -50,10 +50,10 @@ _Below is an example of how you can instruct your audience on installing and set
 ### Built With
 
 
-* Node
+* NodeJs
 * ExpressJs
 * MongoDb
 * StripePayment
-* ejs Template
+* EJS Template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
